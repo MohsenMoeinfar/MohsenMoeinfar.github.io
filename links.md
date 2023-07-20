@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Favorite Author](https://en.wikipedia.org/wiki/Darren_O%27Shaughnessy)
+* [Places I want to visit](https://www.hamburg.com/)
+* [My home city](https://en.wikipedia.org/wiki/Tehran)
+* [My university](http://iust.ac.ir)
 

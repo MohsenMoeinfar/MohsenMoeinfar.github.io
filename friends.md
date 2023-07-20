@@ -8,10 +8,20 @@ modified: 4-10-2019
 comments: true
 ---
 
-### همکلاسی‌ها
-* [علی حسینی](http://alihosseini.github.io)
-* بهداد محمدی
-* حسن یا
-
+### Friends
+* [ارسلان](https://github.com/Arsalan-Zanganeh)
+* [رهام](https://github.com/RohamIzadidoost)
+* [سعید](https://github.com/Saeed77Y/saeed77y.github.io)
+*  علیرضا
+*  ایمان
+*   بهمن 
+*   متین 
+*   آرین
+*  حامد 
+*  دانیال
+*   کوروش  
+*   نمزیز
+*  ایلیا سابق 
+*   و بقیه
 
 

@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "توررنگ آتشی"
+title                    : "محسن معین فر"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "Mohsen" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Poorrang Atashi"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
+  name             : "Mohsen Moeinfar"
+  avatar           : "/assets/images/bio-photo2.jpg"
+  bio              : I'm a student.
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  email            : mr.mohsen.moienfar@gmail.com
+  twitter: MoeinfarMo46768
+  linkedin: mohsen-moeinfar-5b6483284
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: MohsenMoeinfar
+  instagram: mohsen_moeinfar101
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
