@@ -11,5 +11,5 @@ comments: false
 
 # C programming
 # python programming
-# C# programmin
+# C# programming
 Thirsty to learn

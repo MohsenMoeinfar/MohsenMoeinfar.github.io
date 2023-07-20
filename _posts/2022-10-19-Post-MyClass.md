@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  
+title:  Ai vs Human
 ---
 ##Ai vs Human
 ##Artificial Intelligence vs. Human Intelligence: Will AI ##Replace Humans in the Future?

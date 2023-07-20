@@ -9,6 +9,6 @@ comments: false
 ---
 
 
-* [BJJ](http://www.chess.com/)
+* [Chess](http://www.chess.com/)
 
 
